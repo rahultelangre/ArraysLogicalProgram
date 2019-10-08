@@ -1,5 +1,5 @@
 package com.nt.arrays2;
-
+//hi heloow hw r u feature1
 import java.util.Arrays;
 
 public class Q1_RotateArray {
